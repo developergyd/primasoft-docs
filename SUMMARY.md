@@ -4,5 +4,7 @@
 
 ## Donatur
 
-* [Input Donatur](donatur/input-donatur.md)
+* [Input Donasi](donatur/input-donatur/README.md)
+  * [Donatur lama](donatur/input-donatur/donatur-lama.md)
+  * [Tambah donatur baru](donatur/input-donatur/tambah-donatur-baru.md)
 
